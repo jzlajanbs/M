@@ -5,7 +5,7 @@ local whitelist = {
     ["GYN_STORS2"] = true,
     ["LuaWorldV99"] = true,
     ["miguelcrazy41"] = true,
-    ["user1"] = true
+    ["SadNii4"] = true
 }
 
 if not whitelist[LocalPlayer.Name] then
@@ -1451,6 +1451,7 @@ tabteleport:AddButton("Ilha do Ringue [Brawl]", function()
         Duration = 0
     })
 end)
+
 
 
 
